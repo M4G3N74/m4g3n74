@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Django Blog**<br>👯 I’m looking to collaborate on **Anything**<br>🤝 I’m looking for help with **React, Rust & Elixir**<br>🌱 I’m currently learning **Elixir, Django, & Rust**<br>💬 Ask me about **Anime & Code**<br>⚡ Fun fact **Am a boy**
+🔭 I’m currently working on **Blog Powered by Laravel**<br>👯 I’m looking to collaborate on **Python & PHP Projects**<br>🤝 I’m looking for help with **OOP PHP, Python & Elixir**<br>🌱 I’m currently learning **OOP PHP, Django, & Python**<br>💬 Ask me about **Anime & Code**<br>⚡ Fun fact **Am a boy**
 
 
 ## 🌐 Socials:
